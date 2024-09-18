@@ -1,2 +1,13 @@
-# Portfolio-website-html-css-js
-A personal portfolio website built with HTML, CSS, and JavaScript. It features a responsive design, smooth animations, and an interactive UI. The site includes a project showcase section with live links, plus a contact form for easy communication. Explore to learn more about my work and web development journey.
+# Responsive Personal Portfolio Website
+## [Watch it on youtube](https://youtu.be/6cidbUHNZRQ)
+### Responsive Personal Portfolio Website
+
+- Responsive Personal Portfolio Website Using HTML CSS And JavaScript
+- Contains animations when scrolling.
+- Smooth scrolling in each section.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
+💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+
+![preview img](/preview.png)
